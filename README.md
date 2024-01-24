@@ -7,7 +7,7 @@ De meeste van mijn scripts zijn ook geschreven in Typescript.
 
 ## Installatie
 
-Je laat het project runnen door middel van 1 commando: 
+Je laat het project runnen door middel van 1 commando (zorg er wel voor dat je in de root folder zit in je cmd): 
 
 ```bash
 deno run --unstable --allow-net --allow-read -c tsconfig.json ./ts/server.ts
